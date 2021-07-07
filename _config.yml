@@ -16,7 +16,7 @@
 logo: "fig/logo.png"
 title: L1Br Robot
 description: A documentation to L1Br Robot
-baseurl: "/warehouseIO" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://laser-robotics.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
