@@ -54,4 +54,4 @@ Then go back to your catkin workspace and build the packages
 catkin make
 ```
 
-If everything works out, let's [run the simulation](https://laser-robotics.github.io/warehouseIO/docs/Simulation/howto/)
+If everything works out, let's [run the simulation](https://laser-robotics.github.io/docs/Simulation/howto/)
