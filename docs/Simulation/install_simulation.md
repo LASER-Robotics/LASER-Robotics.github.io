@@ -9,18 +9,10 @@ nav_order: 1
 
 To serve you who have just installed ubuntu, we have a complete installation script that includes a series of applications and packages, ready to use the simulation in the simplest way.
 
-First go to your catkin workspace using the command `cd`.
-
-If you don't have a workspace, create a folder and write the following codes inside it:
-
-```
-mkdir -p src
-catkin_make
-```
 
 ## Simple install
 
-Now just run the following command (in the `src` folder of your catkin workspace) to insert all the packages and their dependencies.
+Just run the code below in a terminal of your choice, it will verify and install all the programs necessary to use the warehouse, create its own workspace and insert the packages for the L1Br simulation.
 
 ```
 curl -sLf https://raw.githubusercontent.com/LASER-Robotics/Warehouse_Gazebo/master/install_robot_simulation.sh | bash
