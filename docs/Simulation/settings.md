@@ -27,12 +27,3 @@ There are 2 options for a laser sensor in the simulation. The regular lidar sens
 
 ![Captura de tela de 2022-02-14 10-48-12](https://user-images.githubusercontent.com/36930457/153974014-1b2725eb-7508-4a84-8ca5-c780668ff0a7.png)
 
-
-### Requirements
-
-- [ROS Noetic](http://gazebosim.org/tutorials?tut=install_ubuntu)
-- [Gazebo](http://gazebosim.org/tutorials?tut=ros_installing&cat=connect_ros)
-- [Rviz](http://wiki.ros.org/rviz/UserGuide)
-- [Python 3.8](https://docs.python-guide.org/starting/install3/linux/)
-- [ROS Control](http://wiki.ros.org/ros_control)
-- [Joint State Publisher](https://zoomadmin.com/HowToInstall/UbuntuPackage/joint-state-publisher)
