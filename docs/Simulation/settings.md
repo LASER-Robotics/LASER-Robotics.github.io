@@ -1,3 +1,4 @@
+---
 layout: default
 title: How to change settings
 parent: Simulation
