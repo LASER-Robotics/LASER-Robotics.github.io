@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Blender
-parent: Software
+ancestor: Robots
 grand_parent: L1BR
+parent: Software
+title: Blender
 nav_order: 5
 ---
 

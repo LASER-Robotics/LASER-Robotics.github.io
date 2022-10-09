@@ -1,8 +1,9 @@
 ---
 layout: default
-title: ROS
-parent: Software
+ancestor: Robots
 grand_parent: L1BR
+parent: Software
+title: ROS
 nav_order: 2
 ---
 

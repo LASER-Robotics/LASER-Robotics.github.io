@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Fusion 360
-parent: Software
+ancestor: Robots
 grand_parent: L1BR
+parent: Software
+title: Fusion 360
 nav_order: 6
 ---
 

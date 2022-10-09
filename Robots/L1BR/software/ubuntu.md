@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Ubuntu 20.04
-parent: Software
+ancestor: Robots
 grand_parent: L1BR
+parent: Software
+title: Ubuntu 20.04
 nav_order: 1
 ---
 
