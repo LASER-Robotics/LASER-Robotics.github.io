@@ -18,7 +18,7 @@ title: LASER-Robotics
 description: A documentation to L1Br Robot
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://laser-robotics.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-theme: pdmosses/just-the-docs@rec-nav
+remote_theme: just-the-docs/just-the-docs
 
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"
