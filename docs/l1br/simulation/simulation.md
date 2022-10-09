@@ -6,7 +6,7 @@ in_section: 11
 section_id: 113
 nav_order: 3
 has_children: true
-permalink: robots/l1br/simulation
+permalink: l1br/simulation
 ---
 
 # Simulation

@@ -1,5 +1,6 @@
 ---
 layout: default
+grand_parent: l1br
 parent: simulation
 title: How to change settings
 in_section: 113

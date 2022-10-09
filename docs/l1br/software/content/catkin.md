@@ -1,10 +1,11 @@
 ---
 layout: default
+grand_parent: l1br
 parent: software
 title: Catkin
 in_section: 114
 nav_order: 3
-permalink: robots/l1br/software/catkin
+permalink: l1br/software/catkin
 ---
 
 # What is Catkin?

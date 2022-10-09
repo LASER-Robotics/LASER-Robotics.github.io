@@ -1,5 +1,6 @@
 ---
 layout: default
+grand_parent: l1br
 parent: software
 title: Blender
 in_section: 114
