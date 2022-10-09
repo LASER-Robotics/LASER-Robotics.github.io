@@ -1,9 +1,9 @@
 ---
 layout: default
-ancestor: robots
-grand_parent: l1br
 parent: software
 title: Gazebo
+in_section: 1
+section_id: 14
 nav_order: 4
 permalink: robots/l1br/software/gazebo
 ---

@@ -1,9 +1,9 @@
 ---
 layout: default
-ancestor: robots
-grand_parent: l1br
 parent: simulation
 title: How to Simulate
+in_section: 1
+section_id: 13
 nav_order: 2
 permalink: robots/l1br/simulation/howto
 ---

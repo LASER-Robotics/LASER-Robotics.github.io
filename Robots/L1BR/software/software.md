@@ -1,8 +1,8 @@
 ---
 layout: default
-grand_parent: robots
 parent: l1br
 title: software
+in_section: 1
 nav_order: 4
 has_children: true
 permalink: robots/l1br/software

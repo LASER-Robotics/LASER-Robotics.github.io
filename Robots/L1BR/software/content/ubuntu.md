@@ -1,9 +1,9 @@
 ---
 layout: default
-ancestor: robots
-grand_parent: l1br
 parent: software
 title: Ubuntu 20.04
+in_section: 1
+section_id: 14
 nav_order: 1
 permalink: robots/l1br/software/ubuntu
 ---

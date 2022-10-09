@@ -1,9 +1,9 @@
 ---
 layout: default
-ancestor: robots
-grand_parent: l1br
 parent: Introduction
 title: What is L1br
+in_section: 1
+section_id: 12
 nav_order: 1
 permalink: robots/l1br/introduction/what_is
 ---

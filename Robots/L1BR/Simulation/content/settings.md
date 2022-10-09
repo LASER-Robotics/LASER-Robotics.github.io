@@ -1,11 +1,11 @@
 ---
 layout: default
-ancestor: robots
-grand_parent: l1br
 parent: simulation
 title: How to change settings
-permalink: robots/l1br/simulation/settings
+in_section: 1
+section_id: 13
 nav_order: 3
+permalink: robots/l1br/simulation/settings
 ---
 
 # Changing a few default settings 
