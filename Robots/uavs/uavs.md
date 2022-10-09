@@ -6,6 +6,7 @@ in_section: 1
 section_id: 12
 nav_order: 2
 permalink: robots/uavs
+has_children: true
 ---
 
 # Welcome to the world UAV - Your UAV wiki

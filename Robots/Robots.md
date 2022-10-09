@@ -4,6 +4,7 @@ title: robots
 section_id: 1
 nav_order: 2
 permalink: robots
+has_children: true
 ---
 
 # Welcome to LASER-Robotics
