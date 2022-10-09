@@ -1,11 +1,10 @@
 ---
 layout: default
-grand_parent: l1br
-parent: software
+grand_parent: L1Br
+parent: Software
 title: Blender
-in_section: 114
 nav_order: 5
-permalink: robots/l1br/software/blender
+permalink: l1br/software/blender
 ---
 
 # Blender

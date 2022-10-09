@@ -1,11 +1,10 @@
 ---
 layout: default
-grand_parent: l1br
-parent: software
+grand_parent: L1Br
+parent: Software
 title: ROS
-in_section: 114
 nav_order: 2
-permalink: robots/l1br/software/ros
+permalink: l1br/software/ros
 ---
 
 # Robot Operating System (ROS)

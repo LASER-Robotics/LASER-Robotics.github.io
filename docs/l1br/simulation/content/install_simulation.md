@@ -1,9 +1,8 @@
 ---
 layout: default
-grand_parent: l1br
-parent: simulation
+grand_parent: L1Br
+parent: Simulation
 title: Install Simulation
-in_section: 113
 nav_order: 1
 permalink: l1br/simulation/install_simulation
 ---
@@ -49,4 +48,4 @@ Then go back to your catkin workspace and build the packages
 catkin make
 ```
 
-If everything works out, let's [run the simulation](https://laser-robotics.github.io/robots/simulation/howto/)
+If everything works out, let's [run the simulation](https://laser-robotics.github.io/simulation/howto/)

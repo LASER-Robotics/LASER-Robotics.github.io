@@ -1,9 +1,8 @@
 ---
 layout: default
-grand_parent: l1br
-parent: software
+grand_parent: L1Br
+parent: Software
 title: Catkin
-in_section: 114
 nav_order: 3
 permalink: l1br/software/catkin
 ---

@@ -1,9 +1,7 @@
 ---
 layout: default
-parent: l1br
-title: software
-in_section: 11
-section_id: 114
+parent: L1Br
+title: Software
 nav_order: 4
 has_children: true
 permalink: l1br/software

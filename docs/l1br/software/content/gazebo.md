@@ -1,9 +1,8 @@
 ---
 layout: default
-parent: software
-grand_parent: l1br
+parent: Software
+grand_parent: L1Br
 title: Gazebo
-in_section: 114
 nav_order: 4
 permalink: l1br/software/gazebo
 ---

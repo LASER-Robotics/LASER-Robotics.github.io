@@ -1,6 +1,6 @@
 ---
 layout: default
-title: l1br
+title: L1Br
 nav_order: 1
 has_children: true
 permalink: l1br
