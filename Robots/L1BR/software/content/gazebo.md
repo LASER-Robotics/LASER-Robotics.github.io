@@ -5,6 +5,7 @@ grand_parent: l1br
 parent: software
 title: Gazebo
 nav_order: 4
+permalink: robots/l1br/software/gazebo
 ---
 
 # Gazebo

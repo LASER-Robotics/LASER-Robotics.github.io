@@ -1,9 +1,11 @@
 ---
 layout: default
-title: What is L1br
-parent: Introduction
+ancestor: robots
 grand_parent: l1br
+parent: Introduction
+title: What is L1br
 nav_order: 1
+permalink: robots/l1br/introduction/what_is
 ---
 
 # What's L1Br?

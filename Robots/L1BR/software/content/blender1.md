@@ -5,6 +5,7 @@ grand_parent: l1br
 parent: software
 title: Blender
 nav_order: 5
+permalink: robots/l1br/software/blender
 ---
 
 # Blender

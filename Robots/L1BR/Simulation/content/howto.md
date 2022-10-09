@@ -1,9 +1,11 @@
 ---
 layout: default
-title: How to Simulate
-parent: Simulation
+ancestor: robots
 grand_parent: l1br
+parent: simulation
+title: How to Simulate
 nav_order: 2
+permalink: robots/l1br/simulation/howto
 ---
 
 # Running the Simulation

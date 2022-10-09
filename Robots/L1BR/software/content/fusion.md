@@ -5,6 +5,7 @@ grand_parent: l1br
 parent: software
 title: Fusion 360
 nav_order: 6
+permalink: robots/l1br/software/fusion
 ---
 
 # Fusion 360

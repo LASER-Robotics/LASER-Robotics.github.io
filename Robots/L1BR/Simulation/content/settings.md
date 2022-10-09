@@ -1,8 +1,10 @@
 ---
 layout: default
-title: How to change settings
-parent: Simulation
+ancestor: robots
 grand_parent: l1br
+parent: simulation
+title: How to change settings
+permalink: robots/l1br/simulation/settings
 nav_order: 3
 ---
 

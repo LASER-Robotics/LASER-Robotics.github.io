@@ -1,9 +1,11 @@
 ---
 layout: default
-title: Install Simulation
-parent: Simulation
+ancestor: robots
 grand_parent: l1br
+parent: simulation
+title: Install Simulation
 nav_order: 1
+permalink: robots/l1br/simulation/install_simulation
 ---
 
 # Install Gazebo Simulation

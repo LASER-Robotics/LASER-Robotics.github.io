@@ -5,6 +5,7 @@ grand_parent: l1br
 parent: software
 title: ROS
 nav_order: 2
+permalink: robots/l1br/software/ros
 ---
 
 # Robot Operating System (ROS)
