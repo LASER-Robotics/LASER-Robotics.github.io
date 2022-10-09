@@ -8,5 +8,5 @@ permalink: uavs/drone_structure
 ---
 
 # UAV Structure
-[![](fig/Ativo4.png "f450 structure")](fig/PB_no_cables.jpg)
+[![](fig/Ativo4.png "f450 structure")](fig/Ativo4.jpg)
 
