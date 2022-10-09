@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Robots
+title: robots
 nav_order: 2
 has_children: true
-permalink: Robots
+permalink: robots
 ---
 
 # Welcome to LASER-Robotics
@@ -12,6 +12,6 @@ permalink: Robots
 Select a robot that you are interested in taking a look at.
 {: .fs-6 .fw-300 }
 
-[L1BR](https://laser-robotics.github.io/Robots/L1BR){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [UAV's](https://laser-robotics.github.io/Robots/UAV's){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[l1br](https://laser-robotics.github.io/robots/l1br){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [uavs](https://laser-robotics.github.io/robots/uavs){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 --- 

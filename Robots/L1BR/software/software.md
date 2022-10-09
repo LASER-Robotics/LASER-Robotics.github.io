@@ -1,11 +1,11 @@
 ---
 layout: default
 title: software
-parent: L1BR
-grand_parent: Robots
+parent: l1br
+grand_parent: robots
 nav_order: 4
 has_children: true
-permalink: Robots/L1BR/software
+permalink: robots/l1br/software
 ---
 
 # Software

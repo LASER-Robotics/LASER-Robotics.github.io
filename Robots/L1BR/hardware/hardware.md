@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Hardware
-parent: L1BR
-grand_parent: Robots
+parent: l1br
+grand_parent: robots
 nav_order: 1
 has_children: true
-permalink: Robots/L1BR/hardware
+permalink: robots/l1br/hardware
 ---
 

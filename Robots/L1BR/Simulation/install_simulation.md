@@ -2,7 +2,7 @@
 layout: default
 title: Install Simulation
 parent: Simulation
-grand_parent: L1BR
+grand_parent: l1br
 nav_order: 1
 ---
 

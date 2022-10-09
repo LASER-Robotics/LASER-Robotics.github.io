@@ -1,10 +1,10 @@
 ---
 layout: default
-title: UAV's
-parent: Robots
+title: uavs
+parent: robots
 nav_order: 2
 has_children: true
-permalink: Robots/UAV's
+permalink: robots/uavs
 ---
 
 # Welcome to the world UAV - Your UAV wiki
