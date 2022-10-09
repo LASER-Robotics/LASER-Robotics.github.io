@@ -1,6 +1,7 @@
 ---
 layout: default
 title: UAV's
+parent: Robots
 nav_order: 2
 has_children: true
 permalink: Robots/UAV's

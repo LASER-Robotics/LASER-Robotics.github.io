@@ -1,6 +1,7 @@
 ---
 layout: default
 title: L1BR
+parent: Robots
 nav_order: 1
 has_children: true
 permalink: Robots/L1BR

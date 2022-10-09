@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Simulation
+parent: L1BR
+grand_parent: Robots
 nav_order: 4
 has_children: true
 permalink: Robots/L1BR/simulation
