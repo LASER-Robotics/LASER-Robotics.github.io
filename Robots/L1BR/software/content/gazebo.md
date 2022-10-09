@@ -15,6 +15,6 @@ Through the gazebo simulations we will be able to explore several features of th
 
 # Install Gazebo
 
-To install the gazebo on your computer, you will first need to have [ROS](https://laser-robotics.github.io/warehouseIO/docs/software/ros) installed because it is through it that you will run the gazebo applications, so just go ahead with the installation:
+To install the gazebo on your computer, you will first need to have [ROS](https://laser-robotics.github.io/robots/l1br/software/ros) installed because it is through it that you will run the gazebo applications, so just go ahead with the installation:
 
 - [Install Gazebo](http://gazebosim.org/tutorials?tut=install_ubuntu&cat=install)
