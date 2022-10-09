@@ -2,8 +2,7 @@
 layout: default
 parent: simulation
 title: How to Simulate
-in_section: 1
-section_id: 13
+in_section: 13
 nav_order: 2
 permalink: robots/l1br/simulation/howto
 ---

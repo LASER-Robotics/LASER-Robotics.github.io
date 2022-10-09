@@ -2,8 +2,7 @@
 layout: default
 parent: software
 title: Gazebo
-in_section: 1
-section_id: 14
+in_section: 14
 nav_order: 4
 permalink: robots/l1br/software/gazebo
 ---
