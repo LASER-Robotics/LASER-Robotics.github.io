@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Software
+title: software
 parent: L1BR
 grand_parent: Robots
 nav_order: 4

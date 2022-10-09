@@ -2,7 +2,7 @@
 layout: default
 ancestor: Robots
 grand_parent: L1BR
-parent: Software
+parent: software
 title: Fusion 360
 nav_order: 6
 ---

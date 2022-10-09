@@ -2,7 +2,7 @@
 layout: default
 ancestor: Robots
 grand_parent: L1BR
-parent: Software
+parent: software
 title: Gazebo
 nav_order: 4
 ---
