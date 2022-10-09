@@ -1,8 +1,8 @@
 ---
 layout: default
 title: robots
+section_id: 1
 nav_order: 2
-has_children: true
 permalink: robots
 ---
 

@@ -2,7 +2,7 @@
 layout: default
 parent: software
 title: Ubuntu 20.04
-in_section: 14
+in_section: 114
 nav_order: 1
 permalink: robots/l1br/software/ubuntu
 ---

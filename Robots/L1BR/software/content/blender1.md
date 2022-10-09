@@ -2,7 +2,7 @@
 layout: default
 parent: software
 title: Blender
-in_section: 14
+in_section: 114
 nav_order: 5
 permalink: robots/l1br/software/blender
 ---

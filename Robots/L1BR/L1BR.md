@@ -2,7 +2,8 @@
 layout: default
 title: l1br
 parent: robots
-section_id: 1
+in_section: 1
+section_id: 11
 nav_order: 1
 has_children: true
 permalink: robots/l1br

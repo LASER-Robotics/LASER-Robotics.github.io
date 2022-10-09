@@ -2,8 +2,9 @@
 layout: default
 title: uavs
 parent: robots
+in_section: 1
+section_id: 12
 nav_order: 2
-has_children: true
 permalink: robots/uavs
 ---
 

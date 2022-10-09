@@ -2,7 +2,7 @@
 layout: default
 parent: software
 title: Fusion 360
-in_section: 14
+in_section: 114
 nav_order: 6
 permalink: robots/l1br/software/fusion
 ---
