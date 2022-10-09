@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Simulation
-nav_order: 4
+title: UAV's
+nav_order: 2
 has_children: true
 permalink: Robots/UAV's
 ---

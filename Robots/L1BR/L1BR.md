@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Simulation
-nav_order: 4
+title: L1BR
+nav_order: 1
 has_children: true
 permalink: Robots/L1BR
 ---
