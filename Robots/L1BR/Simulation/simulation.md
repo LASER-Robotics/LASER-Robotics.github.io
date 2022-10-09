@@ -3,7 +3,7 @@ layout: default
 title: Simulation
 nav_order: 4
 has_children: true
-permalink: docs/L1BR/simulation
+permalink: Robots/L1BR/simulation
 ---
 
 # Simulation

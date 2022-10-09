@@ -3,6 +3,6 @@ layout: default
 title: Introduction
 nav_order: 2
 has_children: true
-permalink: docs/L1BR/introduction
+permalink: Robots/L1BR/introduction
 ---
 

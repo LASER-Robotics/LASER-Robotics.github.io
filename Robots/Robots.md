@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Home
-nav_order: 1
-description: "On this site we have a complete description of the robots we work with."
-permalink: /
+title: Simulation
+nav_order: 4
+has_children: true
+permalink: Robots
 ---
 
 # Welcome to LASER-Robotics
