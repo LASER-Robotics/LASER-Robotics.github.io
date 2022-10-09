@@ -2,6 +2,7 @@
 layout: default
 title: What is L1br
 parent: Introduction
+grand_parent: L1BR
 nav_order: 1
 ---
 

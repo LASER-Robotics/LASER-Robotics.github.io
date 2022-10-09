@@ -2,6 +2,7 @@
 layout: default
 title: Fusion 360
 parent: Software
+grand_parent: L1BR
 nav_order: 6
 ---
 

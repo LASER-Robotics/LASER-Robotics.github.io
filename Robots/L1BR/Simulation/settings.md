@@ -2,6 +2,7 @@
 layout: default
 title: How to change settings
 parent: Simulation
+grand_parent: L1BR
 nav_order: 3
 ---
 

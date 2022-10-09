@@ -2,6 +2,7 @@
 layout: default
 title: Ubuntu 20.04
 parent: Software
+grand_parent: L1BR
 nav_order: 1
 ---
 
