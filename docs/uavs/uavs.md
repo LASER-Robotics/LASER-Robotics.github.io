@@ -10,7 +10,7 @@ has_children: true
 {: .fs-9 }
 
 
-{: .fs-3 .fw-300 }
+{: .fs-5 .fw-300 }
 Currently we use the Multi-Robots-System from CTU-Prague, the content in this wiki is are more detailed explanation about there system, for newcomers.
 For those that want to start work with the UAVs, a good start is installing the system and play with the simulation.
 But feel free to see our wiki.
