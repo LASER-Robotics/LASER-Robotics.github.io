@@ -37,3 +37,4 @@ permalink: uavs/hardware
 ### NOTE:
   - Motors test must be done with battery connected, but all the rest can be done just connecting Pixhawk through the usb port.
   
+## Mini-drone - LaSER configuration
