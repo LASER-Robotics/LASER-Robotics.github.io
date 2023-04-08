@@ -1,3 +1,3 @@
 # See the site
 
----> [WAREHOUSE SIMULATION](https://laser-robotics.github.io/) <---
+---> [LaSER WIKI](https://laser-robotics.github.io/) <---
