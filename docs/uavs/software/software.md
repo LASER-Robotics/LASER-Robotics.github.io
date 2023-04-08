@@ -10,7 +10,7 @@ permalink: uavs/software
 # Software
 ## X500 - MRS UAV system
 Firsts steps should be pretty straight forwards, by looking into [MRS uav-core](https://ctu-mrs.github.io/docs/software/uav_core/#system-requirements) and [installing](https://github.com/ctu-mrs/mrs_uav_system#installation).
-Doing it in your own computer or in drone's computer, allows use the system or [simulate](uavs/simulation) it using gazebo simulator.
+Doing it in your own computer or in drone's computer, allows use the system or [simulate](simulation) it using gazebo simulator.
 ### Steps after a fresh installation:
 
 !!!This steps are just for a real drone!!!
