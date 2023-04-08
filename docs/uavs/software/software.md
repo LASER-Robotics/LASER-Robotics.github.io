@@ -15,7 +15,7 @@ Doing it in your own computer or in drone's computer, allows use the system or [
 
 !!!This steps are just for a real drone!!!
 
-  - Connect through the drone via SSH, if already done the netplan configurated and the drone IP. If not, procced with a hdmi connection.
+  - Connect through the drone via [SSH](https://ctu-mrs.github.io/docs/FAQ.html#how-do-you-ssh-to-the-robot), if already done the netplan configurated and the drone IP. If not, procced with a hdmi connection.
   - Run the script [check_uav](https://github.com/ctu-mrs/uav_core/blob/master/miscellaneous/scripts/check_uav.sh).
     - This script shows all the information that is wrong for run the system, and sugest possible solutions.
   - Configure bashrc variables, as see in [uav_core](https://ctu-mrs.github.io/docs/software/uav_core/#finishing-your-bashrc) 
