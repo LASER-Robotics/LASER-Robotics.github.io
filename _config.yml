@@ -78,6 +78,8 @@ aux_links_new_tab: false
 # nav_sort: case_insensitive # default, equivalent to nil
 nav_sort: case_sensitive # Capital letters sorted before lowercase
 
+#nav_enabled: false
+
 # Footer content
 # appears at the bottom of every page's main content
 
@@ -110,3 +112,4 @@ compress_html:
   profile: false
   # ignore:
   #   envs: all
+

@@ -12,6 +12,6 @@ permalink: /
 Select a robot that you are interested in taking a look at.
 {: .fs-6 .fw-300 }
 
-[l1br](https://laser-robotics.github.io/l1br){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [uavs](https://laser-robotics.github.io/uavs){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[l1br](https://laser-robotics.github.io/l1br){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [uavs](https://laser-robotics.github.io/uavs){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [iniciantes](http://localhost:4000/guia){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [robocup](http://localhost:4000/robocup/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 --- 
