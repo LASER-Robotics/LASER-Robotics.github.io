@@ -6,7 +6,7 @@ has_children: true
 permalink: guia
 ---
 
-# Bem-vindo ao guia para iniciantes!
+# Bem-vindo ao guia para iniciantes
 {: .fs-9 }
 
 Se você é novo no Laser Robotics ou está iniciando no mundo da robótica e programação de drones, recomendamos começar pelo nosso Guia para Iniciantes. Este guia foi criado para fornecer uma introdução passo a passo aos conceitos básicos e às melhores práticas utilizadas em nossos projetos. O recomendado é iniciar sua jornada pelas leituras sugeridas e então seguir para o guia de git. Bons estudos!
