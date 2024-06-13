@@ -2,7 +2,7 @@
 layout: default
 title: Fase 2
 parent: Robocup
-nav_order: 2
+nav_order: 3
 permalink: robocup/fase-2
 has_children: false
 ---
