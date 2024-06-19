@@ -12,4 +12,4 @@ Olá, esta é uma aba dedicada àqueles que irão competir na Robocup 2024 - A C
 
 Comece seus estudos pelos primeiros passos, após a conclusão, poderá conferir a documentação dos códigos das três fases presentes na competição.
 
-[Primeiros passos](https://laser-robotics.github.io/robocup/primeiros-passos){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Primeiros passos](https://laser-robotics.github.io/robocup/primeiros-passos){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Fase 1](https://laser-robotics.github.io/robocup/fase-1){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Fase 2](https://laser-robotics.github.io/robocup/fase-2){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Fase 3](https://laser-robotics.github.io/robocup/fase-3){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
